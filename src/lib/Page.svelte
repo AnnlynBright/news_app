@@ -14,5 +14,5 @@
     <CalendarBlock/>
     <LeaderBoard/>
     <FeedBack/>
-    
+    <Footer/>
 </main>
